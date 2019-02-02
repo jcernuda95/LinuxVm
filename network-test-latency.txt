@@ -1,0 +1,14 @@
+google.com 56.548
+stackoverflow.com 17.444
+yahoo.com 52.418
+gmail.com 39.482
+facebook.com 38.503
+amazon.com 102.416
+iit.edu 70.724
+twitter.com 101.023
+youtube.com 41.567
+github.com 78.057
+bitbucket.org 
+youtube.com 20.363
+reddit.com 22.635
+news.ycombinator.com 73.268

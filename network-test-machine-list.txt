@@ -1,0 +1,14 @@
+google.com
+stackoverflow.com
+yahoo.com
+gmail.com
+facebook.com
+amazon.com
+iit.edu
+twitter.com
+youtube.com
+github.com
+bitbucket.org
+youtube.com
+reddit.com
+news.ycombinator.com
